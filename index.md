@@ -8,5 +8,4 @@ We work on:
 - Systems modeling & analytics
 
 
-[People](people.md) | [Research](research.md) | [Projects](projects.md) | [Publications](publications.md)
 
