@@ -1,4 +1,3 @@
-# A-SMART Lab
 Applied Systems Modeling, Analytics, Research & Technology Laboratory
 
 Welcome to the A-SMART Lab webpage.
