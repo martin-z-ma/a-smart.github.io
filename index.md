@@ -26,7 +26,7 @@ industry and society.
 
 ## Get to know us
 
-- Learn more about the PI: [Dr. Ma](dr_ma.md)
-- Meet the team: [Team Members](team_members.md)
+- Learn more about the PI: [Dr. Ma](PI.md)
+- Meet the team: [Team Members](people.md)
 - Explore our [Research](research.md) and [Projects](projects.md)
 - Check out [News](news.md) and future [Sponsors](sponsors.md)
