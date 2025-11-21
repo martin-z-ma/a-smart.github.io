@@ -1,4 +1,4 @@
-## Students
+## Team Members
 
 *(Add your members here — examples below)*
 
