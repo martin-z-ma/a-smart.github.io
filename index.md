@@ -7,5 +7,7 @@ We work on:
 - Chemical, food, and bio systems engineering
 - Systems modeling & analytics
 
+## A-SMART Lab
+- A-SMART Lab
 
-
+Applied Systems Modeling, Analytics, Research & Technology (A-SMART) Lab
