@@ -1,10 +1,12 @@
 title: "A-SMART Lab"
-description: "Applied Systems Modeling, Analytics, Research & Technology (A-SMART) Lab"
+description: "Applied Systems Modeling, Analytics, Research & Technology"
 theme: minima
 
-# Add this:
 minima:
   skin: classic
+
+sass:
+  sass_dir: assets/css
 
 include:
   - assets/css/style.css
