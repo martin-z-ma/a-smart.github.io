@@ -5,7 +5,7 @@ title: "Publications"
 ## Journal publications
 
 34. Ma, Z., Chen, B., and Pawar, R. Leveraging existing CO2 pipelines and pipeline rights-of-way for large-scale ccs deployment. Geoenergy Science and Engineering 255 (2025), 214063*
-https://doi.org/10.1016/j.geoen.2025.214063
+[Paper link](https://doi.org/10.1016/j.geoen.2025.214063)
 33. Ma, Z., Pachalieva, A. A., Sweeney, M. R., Chen, B., Viswanathan, H., and Hyman,J. D. Efficient approximations of effective permeability of fractured porous media using machine learning: A computational geometry approach. Mathematical Geosciences (2025), 1–41
 https://doi.org/10.1007/s11004-025-10197-2
 32. Sayani, J. K. S., Wang, M., Ma, Z., Sharan, P., Mehana, M., and Chen, B. Techno-economic analysis of hydrogen transport via repurposed natural gas pipelines: Flow dynamics and infrastructure tradeoffs. International Journal of Hydrogen Energy 147 (2025), 150033
